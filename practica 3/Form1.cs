@@ -21,7 +21,7 @@ namespace practica_3
 
         private void lblingre_Click(object sender, EventArgs e)
         {
-
+         //linea de comentario
         }
         // el sigueinte codigo es para sacar el perimetro de un circulo para sacar el area es la siguiente formula pi*radio al cuadrado
         private void btnarea_Click(object sender, EventArgs e)
