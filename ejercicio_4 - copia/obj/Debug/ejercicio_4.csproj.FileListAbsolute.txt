@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\obj\Debug\ejercicio_4.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\obj\Debug\ejercicio_4.Form1.resources
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\obj\Debug\ejercicio_4.formulario2.resources
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\obj\Debug\ejercicio_4.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\obj\Debug\ejercicio_4.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\obj\Debug\ejercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\bin\Debug\ejercicio_4.exe.config
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\bin\Debug\ejercicio_4.exe
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\bin\Debug\ejercicio_4.pdb
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\obj\Debug\ejercicio_4.exe
+C:\Users\User\OneDrive\Desktop\visual\ejercicio_4\obj\Debug\ejercicio_4.pdb
