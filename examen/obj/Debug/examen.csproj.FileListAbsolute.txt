@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Desktop\visual\examen\bin\Debug\examen.exe.config
+C:\Users\User\OneDrive\Desktop\visual\examen\bin\Debug\examen.exe
+C:\Users\User\OneDrive\Desktop\visual\examen\bin\Debug\examen.pdb
+C:\Users\User\OneDrive\Desktop\visual\examen\obj\Debug\examen.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\visual\examen\obj\Debug\examen.Form1.resources
+C:\Users\User\OneDrive\Desktop\visual\examen\obj\Debug\examen.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\visual\examen\obj\Debug\examen.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\visual\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\visual\examen\obj\Debug\examen.exe
+C:\Users\User\OneDrive\Desktop\visual\examen\obj\Debug\examen.pdb
